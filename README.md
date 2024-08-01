@@ -5,7 +5,7 @@ Chat-Vector Paper(https://arxiv.org/abs/2310.04799)
 </p>
 
 ## Update Logs
-- 2024.05.27: [🤗Llama3 모델 공개](cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0)
+- 2024.06.30: [🤗Llama3 모델 공개](cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0)
 이 모델은 Llama3-8B 모델의 Instruct 버전에 해당합니다.
 ---
 

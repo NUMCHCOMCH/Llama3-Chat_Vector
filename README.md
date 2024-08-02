@@ -1,8 +1,7 @@
 #  Llama3-Chat_Vector-kor_Instruct : Chat-Vector를 활용한 한국어 LLAMA3 모델
 - Chat-Vector Paper(https://arxiv.org/abs/2310.04799)
-<p align="center" width="100%">
-<img src="assert/ocelot.png" alt="NLP Logo" style="width: 50%;">
-</p>
+
+---
 
 ## Update Logs
 - 2024.06.30: [🤗Llama3 모델 공개](cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0)

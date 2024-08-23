@@ -16,7 +16,7 @@
 **Model Developers**: nebchi
 
 ## Model Information
-* Chat_Vector는 학습된 가중치 매개변수를 더하고 빼는 것으로 사전 학습된 모델에 대화능력을 부여를 하는데, 이를 통해 영어 중심으로 학습된 LLAVA 모델에 대량의 한국어 코퍼스로 학습한 한국어 LLM의 언어 능력을 LLAVA에 주입하여 한국어 답변이 가능하도록 학습하였습니다.
+* Chat_Vector는 학습된 가중치 매개변수를 더하고 빼는 것으로 사전 학습된 모델에 대화능력을 부여를 하는데, 이를 통해 영어 중심으로 학습된 LLAMA 모델에 대량의 한국어 코퍼스로 학습한 한국어 LLM의 언어 능력을 LLAMA에 주입하여 한국어 답변이 가능하도록 학습하였습니다.
 
 ### Description
 * 이번 Llama3-Chat_Vector-kor_Instruct 모델은 대량의 한국어 코퍼스로 사전학습한 LLAMA 모델에서, 채팅 모델의 가중치를 더해 미세조정 없이 Instruction Model로 개발한 sLLM입니다.
